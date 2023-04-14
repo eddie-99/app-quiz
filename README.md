@@ -1,5 +1,5 @@
-# app-quiz
-Proyecto de Herramientas Automatizadas para Desarrollo de Software con Metodología Incremental
+# Proyecto de Herramientas Automatizadas para Desarrollo de Software con Metodología Incremental.
+
 Este repositorio contiene el código fuente y la documentación relacionada con el proyecto de Herramientas Automatizadas para el Desarrollo de Software utilizando la metodología incremental. Este proyecto tiene como objetivo desarrollar una aplicación de cuestionarios (Quiz App) con el enfoque de la metodología incremental, utilizando diversas herramientas automatizadas para agilizar el proceso de desarrollo.
 
 Descripción del Proyecto
@@ -19,7 +19,7 @@ Este repositorio está organizado de la siguiente manera:
 docs: Contiene la documentación del proyecto, incluyendo manuales, guías de usuario y documentación técnica.
 src: Contiene el código fuente de la aplicación de cuestionarios desarrollada siguiendo la metodología incremental.
 scripts: Contiene scripts y utilidades automatizadas utilizadas durante el proceso de desarrollo.
-CI_CD: Contiene archivos de configuración de herramientas de integración y despliegue continuo (CI/CD) como Jenkins o CircleCI.
+CI_CD: Contiene archivos de configuración de herramientas de integración y despliegue continuo (CI/CD) como Jenkins.
 
 Contribuciones
 Este proyecto está abierto a contribuciones de la comunidad de desarrolladores interesados en la metodología incremental.
