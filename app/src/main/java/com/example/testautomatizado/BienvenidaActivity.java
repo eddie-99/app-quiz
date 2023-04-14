@@ -15,7 +15,7 @@ public class BienvenidaActivity extends AppCompatActivity {
         setContentView(R.layout.activity_bienvenida);
         getSupportActionBar().setBackgroundDrawable(
                 new ColorDrawable(getResources().getColor(R.color.teal_200)));
-        //hola commit
+        //hola pequeño commit
     }
 
     public void openMain3(View view) {
